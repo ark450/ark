@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <img src="C:\Users\USER\Pictures\Web Socials\3.svg" width="150px" height="150px">
+        <link rel="stylesheet" href="CDR.css">
+       <script src = "codee.js"> //(fyi,this goes into the script tag)-->
+        alert("WELCOME TO CODEES") 
+         function register(){
+            alert('Stop thinking, just register!')
+        }
+        setInterval(register, 20000);
+
+        function figo(){
+            alert("Hiya Stranger");
+        }
+
+        function cool(){
+            alert('codees is a lovely place to be');
+        }
+
+        
+       // onclick = alert("codees is a lovely place to be")
+
+
+        //alert.getElementByClass('neet').innerHTML = 'Codees is a lovely place to be';
+       /* var figo = console.querySelector('h');
+        figo.style.fontSize = '900px';*/
+        // drawBox(blue);
+        //drawBox(pickrandom(color));
+        function validate() {
+            var cd1 = document.getElementById("codee1");
+            var cd2 = document.getElementById("codees2");
+            if(cd1.value != "" && cd2.value != ""){
+                if(cd1.value == cd2.value){
+                    return true;
+                }
+            }
+            alert("The values should be equal and not blank");
+            return false;
+
+
+            var Link = document.querySelector("a");
+            Link.addEventListener("click", function(event){
+
+                event.preventdeault();
+
+                alert("You're not going to google");
+            })
+        }
+
+        window.addEventListener( 'resizing', function(){
+            console.log(`page width is ${window.innerWidth}`);
+            console.log(`page height is ${window.innerHeight}`);
+        } );
+       </script>
+    </head>
+    <body class="tyre"></body>
+        <body>
+            <audio class="rewa" controls autoplay >
+                <source src="DEEP-WORSHIP-_-RCCG-THE-SHELTER-_-MIN.-THEOPHILUS-SUNDAY.mp3" type="audio/mp3">
+            </audio> 
+            <h1>
+                <!--<img src="C:\Users\My pc\Pictures\14.svg" height="100px" alt="cde"/>-->
+            </h1>
+        </body>
+        <body>
+        <h2 class="hete">Ciao!</h1>
+        </body>
+        <body>
+            <p>
+                 Codees is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim commodo quam id tincidunt. Nulla facilisi. Phasellus vitae sem in felis ullamcorper tristique. Aliquam erat volutpat. Sed ut risus vel tortor eleifend aliquet a eget mauris. Proin vulputate dictum lectus sed posuere. In efficitur eros ut quam aliquet, id pulvinar ipsum consectetur. Morbi dignissim semper nisl, nec iaculis lectus faucibus ac. Fusce dapibus tempor ipsum, ut aliquam mi venenatis id. Maecenas non sollicitudin purus. Donec condimentum consectetur semper.
+            </p>
+            <body id="jp">
+                Codees is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim commodo quam id tincidunt. Nulla facilisi. Phasellus vitae sem in felis ullamcorper tristique. Aliquam erat volutpat. Sed ut risus vel tortor eleifend aliquet a eget mauris. Proin vulputate dictum lectus sed posuere. In efficitur eros ut quam aliquet, id pulvinar ipsum consectetur. Morbi dignissim semper nisl, nec iaculis lectus faucibus ac. Fusce dapibus tempor ipsum, ut aliquam mi venenatis id. Maecenas non sollicitudin purus. Donec condimentum consectetur semper.
+
+            Integer id cursus urna. Sed sed condimentum nisl. Mauris sollicitudin lorem eget rutrum rhoncus.<br> Nunc malesuada elit id elit consectetur pulvinar. Ut lacinia felis eu sem iaculis pharetra. Sed vehicula auctor rutrum. Nullam suscipit convallis lorem. Aliquam vitae ligula lectus. Sed nec diam eget dolor consequat luctus at ut purus. Donec vitae sagittis justo. Aenean posuere congue turpis, vel luctus enim tristique eu. Mauris efficitur convallis eleifend. Vestibulum tincidunt, nisl et euismod ultrices, augue nisl viverra velit, vel vulputate nunc ipsum nec nibh. Mauris iaculis lectus ac eros iaculis tristique.
+            
+            Praesent posuere congue sapien, id aliquam nunc lobortis nec. Nulla facilisi. Sed vulputate velit in arcu dapibus facilisis. <br>Curabitur vel dolor aliquam, pharetra mi nec, lacinia lectus. Morbi lacinia lobortis est ac vestibulum. Donec dignissim purus non erat dignissim, in maximus leo luctus. Aenean in odio nibh. Nam at pellentesque nunc. Etiam id eleifend felis, at laoreet metus. Aliquam non lectus sit amet justo tincidunt aliquet. Suspendisse in fringilla nisi.
+            <script type="text/javascript">
+                /*var myTag = document.createElement('p');
+                var myText = document.createTextNode("Here is a new paragraph");
+                myTag.appendChild(myText);
+                var myD*/
+                /*var doMex = document.getElementsByTagName("h2");
+                       for (var i = 0; i < doMex.length; i++) {
+                    doMex[i].style.color = "blue";
+
+                }*/
+                //document.getElementById("jp").style.color = "green";
+            </script>
+            </body>
+                    <h2 class="keat">New? Please <a href="Sign up.html">sign up</a></h2>
+                    <h2><a href="www.coderbacks.html" title="Tap here to log in"  onmouseover="cool()" >Already have an account?Log in</a></h2>
+                    <h3><aside class="kolt"><a href="codee acad.html">Explore the academy</a></aside></h3>
+                    <img src = "C:\Users\USER\Pictures\Web Socials\images (2).png"width = 30px height = 30px>
+                    <img src = "C:\Users\USER\Pictures\Web Socials\images (4).png" width = 30px height = 30px>
+                    <img src = "C:\Users\USER\Pictures\Web Socials\images (5).png" width = 30px height = 30px>
+            <footer> By clicking the "Sign up for free" button,you are creating an account,and agree to Coderbacks` <strong>Terms of Service</strong> and <strong>Privacy Policy</strong></footer>
+    </body>
+</html>
